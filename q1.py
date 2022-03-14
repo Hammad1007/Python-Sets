@@ -3,6 +3,8 @@
 import copy
 set1 = set({1, 2, 3, 4, 5});  # set1
 set2 = set({4, 5, 6, 7, 8});  # set2
+
+# Length of the sets
 print('Length of set1 is: ', len(set1));
 print('Length of set2 is: ', len(set2));
 
