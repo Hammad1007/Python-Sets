@@ -1,6 +1,6 @@
 # Task 1
 
-import copy
+import copy # imports the function copy for shallow copy
 set1 = set({1, 2, 3, 4, 5});  # set1
 set2 = set({4, 5, 6, 7, 8});  # set2
 
