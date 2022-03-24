@@ -1,6 +1,7 @@
 # Task 1
 
 import copy # imports the function copy for shallow copy
+
 set1 = set({1, 2, 3, 4, 5});  # set1
 set2 = set({4, 5, 6, 7, 8});  # set2
 
@@ -27,14 +28,14 @@ print('Difference is: ', set6);
 set7 = set1.isdisjoint(set2);
 print('Disjoint is: ', set7);
 
-# Maximum element in a set
+# Maximum element in a set in a function
 def max_Num(set):
   return max(set);
 
 print("Maximum number in set is: ", max_Num(set1));
 print("Maximum number in set is: ", max_Num(set2));
 
-# Minimum number in a set
+# Minimum number in a set in a function
 def min_Num(set):
   return min(set);
 
