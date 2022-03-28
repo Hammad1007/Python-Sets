@@ -36,6 +36,7 @@ print("Maximum number in set is: ", max_Num(set1));
 print("Maximum number in set is: ", max_Num(set2));
 
 # Minimum number in a set in a function
+# can be done using a function only
 def min_Num(set):
   return min(set);
 
