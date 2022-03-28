@@ -53,6 +53,7 @@ print("Is subset: ", set9);
 # Remove elements
 set10 = set({4, 0, 2, 8, 9});
 set11 = set10.clear();
+
 print("Cleared set is: ", set11);
 
 # Comparing if two sets have nothing in common
