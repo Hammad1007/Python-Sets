@@ -29,3 +29,10 @@ Exception Handling
 Task3: 
 Write a function to add, mul, divide two numbers x and y. Implement exception handling
 technique (try, except clause) for handling possible exceptions in the scenario.
+
+Task 4
+Design a code which reads text from the file “Alphabets.txt” and stores its data in reverse order in another file.
+
+For this you may upload the given text file on Google Collab’s session and define the path as: file_path= ‘/Alphabets.txt’
+
+The same convention can be followed for defining path of the resultant file (reversed text file).
