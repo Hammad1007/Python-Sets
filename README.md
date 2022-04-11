@@ -27,10 +27,12 @@ Output : No. of vowels : 3
 Exception Handling 
 
 Task3: 
+
 Write a function to add, mul, divide two numbers x and y. Implement exception handling
 technique (try, except clause) for handling possible exceptions in the scenario.
 
-Task 4
+Task 4:
+
 Design a code which reads text from the file “Alphabets.txt” and stores its data in reverse order in another file.
 
 For this you may upload the given text file on Google Collab’s session and define the path as: file_path= ‘/Alphabets.txt’
