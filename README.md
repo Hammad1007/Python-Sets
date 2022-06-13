@@ -1,8 +1,8 @@
 # Python-Sets
 
-Python Sets
+**Python Sets**
 
-Task 1:
+**Task 1:**
 Write a Python program on sets:
 1. Length of a set
 2. All sets operations(union,intersection)
@@ -17,7 +17,7 @@ set1 = {1,2,3,4,5}
 
 set2 = {4,5,6,7,8}
 
-Task 2:
+**Task 2:**
 
 Python program to count the number of vowels using sets in a given string.
 Sample:
@@ -26,12 +26,12 @@ Output : No. of vowels : 3
 
 Exception Handling 
 
-Task3: 
+**Task3:** 
 
 Write a function to add, mul, divide two numbers x and y. Implement exception handling
 technique (try, except clause) for handling possible exceptions in the scenario.
 
-Task 4:
+**Task 4:**
 
 Design a code which reads text from the file “Alphabets.txt” and stores its data in reverse order in another file.
 
